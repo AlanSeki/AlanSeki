@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlanSeki
 - 👀 I’m interested in Android Phones
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on MIUI
+- 🌱 I’m currently learning C and Python
 - 📫 How to reach me Email:skjt85510@gmail.com
 
 <!---
