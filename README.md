@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AlanSeki
-- 👀 I’m interested in Android Phones
-- 🌱 I’m currently learning C and Python
+- 👋 Hi, I’m @AlanSeki.
+- 👀 I major in Materials Science.
+- 🌱 I’m currently learning C and Python.
 - 📫 How to reach me Email: skjt85510@gmail.com
 
 <!---
